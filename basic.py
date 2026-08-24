@@ -30,3 +30,6 @@ print(len(marks))
 marks.clear()
 print(marks)
 
+#Tupple is immutable
+num = (20,30,40,50)
+print(num)
