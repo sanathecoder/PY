@@ -14,3 +14,6 @@ for score in marks:
 #append
 marks.append(60)
 print(marks)
+#insert
+marks.insert(1,10)
+print(marks)
