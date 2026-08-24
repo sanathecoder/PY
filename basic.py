@@ -17,3 +17,7 @@ print(marks)
 #insert
 marks.insert(1,10)
 print(marks)
+
+#check
+
+print(100 in marks)
