@@ -35,3 +35,8 @@ num = (20,30,20,40,50)
 print(num)
 print(num.count(20))
 print(num.index(20))
+
+
+#Set set dublicate items ko by default store hi ni krta
+set = {20,30,40,20,30,60}
+print(len(set))
