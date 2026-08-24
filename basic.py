@@ -21,3 +21,7 @@ print(marks)
 #check
 
 print(100 in marks)
+
+#clear the list
+marks.clear()
+print(marks)
