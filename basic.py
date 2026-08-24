@@ -52,3 +52,8 @@ for key in dic:
 def sum(a,b):
     print(a+b)
 sum(1,2)    
+def gst_price(price):
+    new_price = price + (price * 0.18)
+    print(new_price)
+gst_price(100)
+gst_price(5000)
