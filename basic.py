@@ -22,6 +22,11 @@ print(marks)
 
 print(100 in marks)
 
+
+#check length
+print(len(marks))
+
 #clear the list
 marks.clear()
 print(marks)
+
