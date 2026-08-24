@@ -1,4 +1,3 @@
-import math 
 import random
 user = input("Guess the Number: ")
 
