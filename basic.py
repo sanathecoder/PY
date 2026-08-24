@@ -57,3 +57,11 @@ def gst_price(price):
     print(new_price)
 gst_price(100)
 gst_price(5000)
+
+
+# directory of Math
+import math
+print(dir(math))
+
+from math import sqrt, log2
+print(log2(16))
