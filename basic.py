@@ -40,3 +40,7 @@ print(num.index(20))
 #Set set dublicate items ko by default store hi ni krta
 set = {20,30,40,20,30,60}
 print(len(set))
+
+#Dictionary key=> value
+dic = {"Math": 90, "Physics": 98, "Chemistry": 99}
+print(dic, type(dic))
