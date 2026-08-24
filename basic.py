@@ -46,3 +46,9 @@ dic = {"Math": 90, "Physics": 98, "Chemistry": 99}
 print(dic, type(dic))
 for key in dic:
     print(key, dic[key])
+
+# function define
+
+def sum(a,b):
+    print(a+b)
+sum(1,2)    
