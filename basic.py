@@ -1,2 +1,3 @@
-name = "Sana Khan"
-print(name.replace("Sana","Amna"))
+for i in range(0,11):
+    if i % 2 == 0:
+        print(i ,"is even")
