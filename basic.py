@@ -44,3 +44,5 @@ print(len(set))
 #Dictionary key=> value
 dic = {"Math": 90, "Physics": 98, "Chemistry": 99}
 print(dic, type(dic))
+for key in dic:
+    print(key, dic[key])
