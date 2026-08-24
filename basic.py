@@ -7,3 +7,10 @@ for i in range(1,31):
 marks = [20,30,40,50,60,70]
 print(marks[-1])
 print(marks[-3:])
+
+for score in marks:
+    print(score)
+
+#append
+marks.append(60)
+print(marks)
