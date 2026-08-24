@@ -65,3 +65,5 @@ print(dir(math))
 
 from math import sqrt, log2
 print(log2(16))
+import random
+print(random.randint(1,9))
